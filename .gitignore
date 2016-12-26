@@ -3,3 +3,4 @@
 3 *.swp~
 4 test/*.txt
 5 !test/master.txt
+6 tmp2
