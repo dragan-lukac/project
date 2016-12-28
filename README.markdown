@@ -1,4 +1,4 @@
-# Git Essentials (a Tuts+ Premium Course)
+# Git Essentials
 
 This is README for the fake project we are
 using to teach Git. Yoy are watching the Tuts+
