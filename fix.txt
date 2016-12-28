@@ -1,1 +1,2 @@
-1 this is our bug fix.
+1 # FIX.TXT
+2 this is our bug fix.
