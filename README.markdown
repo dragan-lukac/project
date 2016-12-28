@@ -5,4 +5,4 @@ using to teach Git. Yoy are watching the Tuts+
 Premium course Gir Essentials:
 
 
-All rights reserved. Decembar 2016 
+All rights reserved. Decembar 2016 Dragan Lukac
