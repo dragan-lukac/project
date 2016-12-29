@@ -2,4 +2,4 @@
 whatever
 2 this is our bug fix.
 3
-4 fix that terrible bug!!!
+4 fix this terrible bug!!!
